@@ -20,6 +20,7 @@
   </div>
 </template>
 
+
 <script>
 import Toast from "primevue/toast";
 import Navbar from "../components/Navbar.vue";
